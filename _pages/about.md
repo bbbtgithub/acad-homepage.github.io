@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Jeremy Yuan (袁瀚桢)"
+excerpt: "Electrical Engineering and AI Research Enthusiast"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,34 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! I am **Jeremy Yuan (袁瀚桢)**, an undergraduate majoring in Electrical Engineering and Automation with a minor in the Internet of Things at Xi'an Jiaotong University, also currently participating in an exchange program at the University of California, Berkeley.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary interests include **AI research**, especially in reinforcement learning, neural networks, and large language models. I aim to contribute to top conferences and journals in these fields. I am also interested in **computer vision** and **natural language processing** applications.
 
+---
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 📜 Research Interests
+- Reinforcement Learning and Deep Learning
+- Large Language Models and Generative Models
+- Computer Vision and NLP
 
-# 📝 Publications 
+## 📝 Publications
+- *Upcoming Papers (Expected in Jan 2025)*: Working on two publications in the field of communications and AI solutions for power systems, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 🎓 Education
+- **Bachelor of Engineering**: Electrical Engineering and Automation, Xi'an Jiaotong University (Qian Xuesen Honors Class), 2022 - Present
+- **Exchange Program**: University of California, Berkeley, Aug 2024 - Dec 2024
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## 💻 Research & Internship Experience
+- **Remote Research Assistant**, Advanced Intelligent Network Lab, Shanghai Jiao Tong University
+  - Focus: AI-driven solutions for high renewable energy grid regulation
+  - Supervisor: Vice President Bie Chaohong
+  - **Duration**: Oct 2023 - Feb 2024 (Research ongoing)
+- **Prospective Internship**: Open to remote internships with opportunities for publication in conferences/journals, available for full-time roles from Jan 2025
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## 🏆 Awards and Honors
+- **Give Me Five Scholarship**: ￥80,000 for overseas study (top student in each A+ discipline), 2023-2024
+- **Provincial Awards**: Second Prize in LanQiao Cup Programming Competition, Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
+- **Academic Scholarship**: Third Prize (￥1,000)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## 🔧 Skills
+- **Programming**: Proficient in C/C++, Python, HTML, CSS, JavaScript; experienced in algorithm competitions with provincial-level awards
+- **Technical Knowledge**: Familiar with TensorFlow, Linux (WSL), OpenCV; knowledge in VAE, transformer models, and diffusion processes for generative tasks
+- **Mathematics & Engineering**: Strong background in calculus, linear algebra, complex functions, integral transformations, mathematical physics, signal processing, and more; self-studied convex optimization and operations research
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 💬 Contact
+- **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
+- **Phone**: +86 152-9835-3916 (China), +1 628-255-8755 (US)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
+
+{% include google-scholar-stats.html %}
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
