@@ -24,12 +24,7 @@ My primary interests include **AI research**, especially in reinforcement learni
 ---
 ## 📝 Publications
 - *Upcoming Papers (Expected in Jan 2025)*: Working on two publications in the field of LEO communications and AI solutions, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
-- 
-## 📜 Research Interests
-- Reinforcement Learning and Deep Learning
-- Large Language Models and Generative Models
-- Embodied AI
-
+  
 ## 🎓 Education
 - **Bachelor of Engineering**: Electrical Engineering and Automation, Xi'an Jiaotong University (Qian Xuesen Honors Class), 2022 - Present
 - **Exchange Program**: University of California, Berkeley, Aug 2024 - Dec 2024
@@ -39,7 +34,12 @@ My primary interests include **AI research**, especially in reinforcement learni
   - Focus: AI-driven solutions for high renewable energy grid regulation
   - **Duration**: Oct 2023 - Feb 2024 (Research ongoing)
   - 
-## Prospective Internship**:
+## 📜 Research Interests
+- Reinforcement Learning and Deep Learning
+- Large Language Models and Generative Models
+- Embodied AI
+- 
+## 🔍 Prospective Internship
 - Open to remote internships with opportunities for publication in conferences/journals, available for full-time roles from Jan 2025 for at least 4 months
 
 ## 🏆 Awards and Honors
@@ -60,7 +60,6 @@ My primary interests include **AI research**, especially in reinforcement learni
 
 ---
 
-{% include google-scholar-stats.html %}
 
 # 📖 Educations
 - *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
