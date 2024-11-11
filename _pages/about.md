@@ -29,8 +29,8 @@ My primary interests include **AI research**, especially in reinforcement learni
 - **Remote Research Assistant**, PAI research lab, Xi'an Jiao Tong University
   - Focus: AI-driven solutions for high renewable energy grid regulation
   - Duration: Oct 2023 - Feb 2024 (Research ongoing)
-  - 
-## 🔥 News&Present state
+
+## 🔥 News & Present state
 - **Exchange Program**: University of California, Berkeley, Aug 2024 - Dec 2024
 
 ## 📜 Research Interests
