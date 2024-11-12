@@ -12,9 +12,9 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : "interested in engaging in research in AI and related fields "
 repository               : "bbbtgithub/acad-homepage.github.io"
-url                      :  https://bbbtgithub.github.io
+url                      :  ms.sm
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-google_scholar_stats_use_cdn : true
+#google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
