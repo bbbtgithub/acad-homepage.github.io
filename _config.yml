@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hanzhen Yuan"
-  avatar           : "selfie.png"
+  avatar           : "images/selfie.png"
   bio              : "Hold high the great banner of the artificial intelligence revolution"
   location         : "Berkeley, US"
   employer         :
