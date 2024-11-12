@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanzhen Yuan/Homepage"
+title                    : "Hanzhen Yuan"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : "interested in engaging in research in AI and related fields "
