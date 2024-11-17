@@ -51,11 +51,16 @@ My primary interests include **AI research**, especially in reinforcement learni
 ## 🧱 projects 
 4 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
+
 (https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj)
-- **search**    https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/search.zip
-- **multiagent**    https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/multiagent.zip
-- **reinforcement**   https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/reinforcement.zip
-- **tracking**   https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
+- **search**
+- https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/search.zip
+- **multiagent**
+- https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/multiagent.zip
+- **reinforcement**
+- https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/reinforcement.zip
+- **tracking**
+- https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
 
 
 
