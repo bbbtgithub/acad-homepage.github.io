@@ -48,6 +48,17 @@ My primary interests include **AI research**, especially in reinforcement learni
 - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
 - **Academic Scholarship**: Third Prize (￥1,000)
 
+## 🧱 projects 
+4 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
+
+(https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj)
+- **search**    https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/search.zip
+- **multiagent**    https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/multiagent.zip
+- **reinforcement**   https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/reinforcement.zip
+- **tracking**   https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
+
+
+
 ## 🔧 Skills
 - **Programming**: Proficient in C/C++, Python, HTML, CSS, JavaScript; experienced in algorithm competitions with provincial-level awards
 - **Technical Knowledge**: Familiar with TensorFlow, Linux (WSL), OpenCV; knowledge in VAE, transformer models,RLHF and diffusion processes for generative tasks
