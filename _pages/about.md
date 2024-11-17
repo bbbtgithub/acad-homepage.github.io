@@ -51,7 +51,6 @@ My primary interests include **AI research**, especially in reinforcement learni
 ## 🧱 projects 
 4 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
-
 (https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj)
 - **search**
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/search.zip
@@ -62,7 +61,7 @@ My primary interests include **AI research**, especially in reinforcement learni
 - **tracking**
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
 🎮 See it in action!
-
+![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
 
 
 ## 🔧 Skills
