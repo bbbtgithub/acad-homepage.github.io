@@ -61,6 +61,7 @@ My primary interests include **AI research**, especially in reinforcement learni
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/reinforcement.zip
 - **tracking**
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
+🎮 See it in action!
 
 
 
