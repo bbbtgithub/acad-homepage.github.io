@@ -42,11 +42,13 @@ My primary interests include **AI-related power system and power electronics res
 - Open to remote internships with opportunities for publication in conferences/journals from Jan 2025.
 
 ## 🏆 Awards and Honors
-- **Give Me Five Scholarship**: approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university), 2023-2024
+- **Give Me Five Scholarship**:
+- approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university), 2023-2024
 - **Provincial Awards**:
 - Second Prize in LanQiao Cup Programming Competition
 - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
-- **Academic Scholarship**: Third Prize (￥1,000)
+- **Academic Scholarship**:
+- Third Prize (￥1,000)
 
 ## 🧱 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
@@ -62,15 +64,21 @@ My primary interests include **AI-related power system and power electronics res
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
 - **machinelearning**
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/machinelearning.zip
+  
 ## 🎮 See it in action!
 ![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
 
 
 ## 🔧 Skills
-- **Programming**: Proficient in C/C++, Python, HTML, CSS, JavaScript; experienced in algorithm competitions with provincial-level awards
-- **Technical Knowledge**: Familiar with TensorFlow, Linux (WSL), OpenCV; knowledge in VAE, transformer models,RLHF and diffusion processes for generative tasks
-- **Mathematics & Engineering**: Strong background in calculus, linear algebra, complex functions, integral transformations, mathematical physics, signal processing, convex optimization and operations research
-- **language** : CET6 619    IELTS 7.0
+- **Programming**:
+- Proficient in C/C++, Python, HTML, CSS, JavaScript; experienced in algorithm competitions with provincial-level awards
+- **Technical Knowledge**:
+- Familiar with TensorFlow, Linux (WSL), OpenCV; knowledge in VAE, transformer models,RLHF and diffusion processes for generative tasks
+- **Mathematics & Engineering**:
+- Strong background in calculus, linear algebra, complex functions, integral transformations, mathematical physics, signal processing, convex optimization and operations research
+- **language** :
+- CET6 619
+- IELTS 7.0
 
 ## 💬 Contact
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
