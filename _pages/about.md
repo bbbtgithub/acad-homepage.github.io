@@ -23,7 +23,7 @@ My primary interests include **AI-related power system and power electronics res
 
 ---
 ## 📝 Publications
-- *Upcoming Papers (Almost done,Expected submitted to Mobicom in March 2025)*: Working in the field of LEO communications and AI solutions, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
+- *Upcoming Papers (Almost done,Expected submitted to Mobicom in March 2025)*: Working on a paper in the field of LEO communications and AI solutions, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
   
 ## 💻 Research Experience
 - **Remote Research Assistant**, PAI research lab, Xi'an Jiao Tong University
