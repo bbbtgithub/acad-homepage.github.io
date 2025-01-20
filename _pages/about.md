@@ -17,39 +17,39 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am **Hanzhen Yuan (袁瀚桢)**, an undergraduate majoring in Electrical Engineering and Automation with a minor in the Internet of Things at Xi'an Jiaotong University, also currently participating in an exchange program at the University of California, Berkeley.
+Hello! I am **Hanzhen Yuan (袁瀚桢)**, an undergraduate majoring in Electrical Engineering and Automation with a minor in the Internet of Things at Xi'an Jiaotong University.
 
-My primary interests include **AI research**, especially in reinforcement learning, neural networks, and large language models. I aim to contribute to top conferences and journals in these fields. I am also interested in **computer vision** and **embodied AI** applications.
+My primary interests include **AI-related power system and power electronics research**. I aim to contribute to top conferences and journals in these fields. 
 
 ---
 ## 📝 Publications
-- *Upcoming Papers (Expected in Jan 2025)*: Working on two publications in the field of LEO communications and AI solutions, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
+- *Upcoming Papers (Almost done,Expected submitted to Mobicom in March 2025)*: Working in the field of LEO communications and AI solutions, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
   
 ## 💻 Research Experience
 - **Remote Research Assistant**, PAI research lab, Xi'an Jiao Tong University
   - Focus: AI-driven solutions for high renewable energy grid regulation
   - Duration: Oct 2023 - Feb 2024 (Research ongoing)
 
-## 🔥 News & Present state
+## 🔥 News 
 - **Exchange Program**: University of California, Berkeley, Aug 2024 - Dec 2024
 
 ## 📜 Research Interests
 - Reinforcement Learning and Deep Learning
 - Large Language Models and Generative Models
-- Embodied AI
+- power systems or power electronic based research environment
 
 ## 🔍 Prospective Internship
-- Open to remote internships with opportunities for publication in conferences/journals, available for full-time roles from Jan 2025 for at least 4 months
+- Open to remote internships with opportunities for publication in conferences/journals from Jan 2025.
 
 ## 🏆 Awards and Honors
-- **Give Me Five Scholarship**: ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university), 2023-2024
+- **Give Me Five Scholarship**: approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university), 2023-2024
 - **Provincial Awards**:
 - Second Prize in LanQiao Cup Programming Competition
 - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
 - **Academic Scholarship**: Third Prize (￥1,000)
 
 ## 🧱 projects 
-4 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
+5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
 (https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj)
 - **search**
@@ -60,7 +60,9 @@ My primary interests include **AI research**, especially in reinforcement learni
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/reinforcement.zip
 - **tracking**
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
-🎮 See it in action!
+- **machinelearning**
+- https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/machinelearning.zip
+## 🎮 See it in action!
 ![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
 
 
@@ -72,8 +74,6 @@ My primary interests include **AI research**, especially in reinforcement learni
 ## 💬 Contact
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
 - **Phone**: +86 152-9835-3916 (China), +1 628-255-8755 (US)
-
----
 
 # 📖 Educations
 - *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
