@@ -23,7 +23,7 @@ My primary interests include **AI-related power system and power electronics res
 
 ---
 ## 📝 Publications
-- *Upcoming Papers (Almost done,Expected submitted to Mobicom in March 2025)*: Working on a paper in the field of LEO communications and AI solutions, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
+- A Study on Risk Assessment Method for Flexible Distribution Network Maintenance (Abstract is now accepted, the full text is expected to be submitted to ICEE Conference, 2025.4.15)
   
 ## 💻 Research Experience
 - **intern**, PAI research lab, Xi'an Jiao Tong University
@@ -38,9 +38,23 @@ My primary interests include **AI-related power system and power electronics res
 1. Independent reproduction of SOTA's Dechirp scheme. By building a ground station to receive data, and using preamble to locate LoRa packets and demodulate, the signal is analyzed in the frequency domain and subsequent operations. It can also achieve good dechirp for data with a signal-to-noise ratio of -20dB, and the positioning accuracy is more than 99.9%.
 2. Try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
 3. The paper being reproduced: try to use the MUSIC algorithm, try to use the virtual antenna array to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
+# 💻 Internships
+1. Shanghai AI lab (remote)
+- Duration: November 2024 - January 2025
+- Job description: RLHF
+- Main work: Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
 
-## 🔥 News 
-- **Exchange Program**: University of California, Berkeley, Aug 2024 - Dec 2024
+2. Nanjing National Foundation Research Institute
+- Duration: October 2023 - July 2024
+- In a smart water conservancy project, ChatGPT was used to train a large number of text materials in the water conservancy industry, realize a question and answer robot, and conduct professional industry consultation. Realize the business assistant function, which can quickly complete the daily work of the business. And in the process of the project, I also entered the ability of language analysis, which can quickly parse the relevant business by saying a sentence and retrieve the relevant business data or data results.
+- Main work: use GPT, industry-oriented, use industry data (divided into two types, one is text-based data, including industry policy documents, business documents, daily work materials, etc.) One is the database file, including the database table data used by various systems) to train LLM to realize online customer service AI bot.
+## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
+- Course Enrollment Results:
+Introduction to Artificial Intelligence (CS188) A
+Control system with (ME132) A 
+Power Electronics (EE113) P (PF course only shows pass or fail)
+
+**A's are generally assigned to about the top 20% or so of students. The proportion of A is usually less, perhaps around the top 3%~5%, or even lower. **
 
 ## 📜 Research Interests
 - AI for power systems
@@ -97,5 +111,5 @@ My primary interests include **AI-related power system and power electronics res
 - *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
 - *2019.09 - 2022.06*, High School Affiliated to Nanjing Normal University. 
 
-# 💻 Internships
+
 
