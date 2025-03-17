@@ -26,20 +26,29 @@ My primary interests include **AI-related power system and power electronics res
 - *Upcoming Papers (Almost done,Expected submitted to Mobicom in March 2025)*: Working on a paper in the field of LEO communications and AI solutions, developed as part of my research assistant role at Shanghai Jiao Tong University Advanced Intelligent Network Lab.
   
 ## 💻 Research Experience
-- **Remote Research Assistant**, PAI research lab, Xi'an Jiao Tong University
+- **intern**, PAI research lab, Xi'an Jiao Tong University
   - Focus: AI-driven solutions for high renewable energy grid regulation
   - Duration: Oct 2023 - Feb 2024 (Research ongoing)
+  - Job Description:
+    The innovations of this paper include: (1) a new load transfer algorithm is proposed; (2) A maintenance risk assessment method suitable for flexible distribution network was established; (3) Strategies to reduce the risk of maintenance are proposed. ”
+- **Intern**, Advanced Intelligent Network Laboratory, Shanghai Jiao Tong University
+  - Duration: July 2024 - present
+  -Topics: LEO Satellite Communication, Channel Modeling and AI Model Applications
+  -Job Description:
+1. Independent reproduction of SOTA's Dechirp scheme. By building a ground station to receive data, and using preamble to locate LoRa packets and demodulate, the signal is analyzed in the frequency domain and subsequent operations. It can also achieve good dechirp for data with a signal-to-noise ratio of -20dB, and the positioning accuracy is more than 99.9%.
+2. Try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
+3. The paper being reproduced: try to use the MUSIC algorithm, try to use the virtual antenna array to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
 
 ## 🔥 News 
 - **Exchange Program**: University of California, Berkeley, Aug 2024 - Dec 2024
 
 ## 📜 Research Interests
+- AI for power systems
 - Reinforcement Learning and Deep Learning
 - Large Language Models and Generative Models
-- power systems or power electronic based research environment
+- power systems based research environment
 
 ## 🔍 Prospective Internship
-- Open to remote internships with opportunities for publication in conferences/journals from Jan 2025.
 
 ## 🏆 Awards and Honors
 - **Give Me Five Scholarship**:
