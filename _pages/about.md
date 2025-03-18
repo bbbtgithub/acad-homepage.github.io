@@ -19,35 +19,36 @@ redirect_from:
 
 Hello! I am **Hanzhen Yuan (袁瀚桢)**, an undergraduate majoring in Electrical Engineering and Automation with a minor in the Internet of Things at Xi'an Jiaotong University.
 
-My primary interests include **AI-related power system and power electronics research**. I aim to contribute to top conferences and journals in these fields. 
+My primary interests include **AI-related power system and research**. I aim to contribute to top conferences and journals in these fields. 
 
 ---
 ## 📝 Publications
 - A Study on Risk Assessment Method for Flexible Distribution Network Maintenance (Abstract is now accepted, the full text is expected to be submitted to ICEE Conference, 2025.4.15)
   
-## 💻 Research Experience
-- **intern**, PAI research lab, Xi'an Jiao Tong University
+## 🔍 Research Experience
+- **PAI research lab, Xi'an Jiao Tong University**
   - Focus: AI-driven solutions for high renewable energy grid regulation
   - Duration: Oct 2023 - Feb 2024 (Research ongoing)
   - Job Description:
     The innovations of this paper include: (1) a new load transfer algorithm is proposed; (2) A maintenance risk assessment method suitable for flexible distribution network was established; (3) Strategies to reduce the risk of maintenance are proposed. ”
-- **Intern**, Advanced Intelligent Network Laboratory, Shanghai Jiao Tong University
+- **Advanced Intelligent Network Laboratory, Shanghai Jiao Tong University**
   - Duration: July 2024 - present
-  -Topics: LEO Satellite Communication, Channel Modeling and AI Model Applications
-  -Job Description:
-1. Independent reproduction of SOTA's Dechirp scheme. By building a ground station to receive data, and using preamble to locate LoRa packets and demodulate, the signal is analyzed in the frequency domain and subsequent operations. It can also achieve good dechirp for data with a signal-to-noise ratio of -20dB, and the positioning accuracy is more than 99.9%.
-2. Try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
-3. The paper being reproduced: try to use the MUSIC algorithm, try to use the virtual antenna array to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
-# 💻 Internships
-1. Shanghai AI lab (remote)
+  - Topics: LEO Satellite Communication, Channel Modeling and AI Model Applications
+  - Job Description:
+  - 1. Independent reproduction of SOTA's Dechirp scheme. By building a ground station to receive data, and using preamble to locate LoRa packets and demodulate, the signal is analyzed in the frequency domain and subsequent operations. It can also achieve good dechirp for data with a signal-to-noise ratio of -20dB, and the positioning accuracy is more than 99.9%.
+  -  2. Try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
+  -  3.  The paper being reproduced: try to use the MUSIC algorithm, try to use the virtual antenna array to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
+## 💻 Internships
+- **Shanghai AI lab (remote)**
 - Duration: November 2024 - January 2025
 - Job description: RLHF
 - Main work: Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
 
-2. Nanjing National Foundation Research Institute
+- **Nanjing National Foundation Research Institute**
 - Duration: October 2023 - July 2024
 - In a smart water conservancy project, ChatGPT was used to train a large number of text materials in the water conservancy industry, realize a question and answer robot, and conduct professional industry consultation. Realize the business assistant function, which can quickly complete the daily work of the business. And in the process of the project, I also entered the ability of language analysis, which can quickly parse the relevant business by saying a sentence and retrieve the relevant business data or data results.
 - Main work: use GPT, industry-oriented, use industry data (divided into two types, one is text-based data, including industry policy documents, business documents, daily work materials, etc.) One is the database file, including the database table data used by various systems) to train LLM to realize online customer service AI bot.
+
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
 - Course Enrollment Results:
 Introduction to Artificial Intelligence (CS188) A
@@ -62,11 +63,9 @@ Power Electronics (EE113) P (PF course only shows pass or fail)
 - Large Language Models and Generative Models
 - power systems based research environment
 
-## 🔍 Prospective Internship
-
 ## 🏆 Awards and Honors
 - **Give Me Five Scholarship**:
-- approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university), 2023-2024
+- approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university per year), 2023-2024
 - **Provincial Awards**:
 - Second Prize in LanQiao Cup Programming Competition
 - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
@@ -91,7 +90,6 @@ Power Electronics (EE113) P (PF course only shows pass or fail)
 ## 🎮 See it in action!
 ![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
 
-
 ## 🔧 Skills
 - **Programming**:
 - Proficient in C/C++, Python, HTML, CSS, JavaScript; experienced in algorithm competitions with provincial-level awards
@@ -107,7 +105,7 @@ Power Electronics (EE113) P (PF course only shows pass or fail)
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
 - **Phone**: +86 152-9835-3916 (China), +1 628-255-8755 (US)
 
-# 📖 Educations
+## 📖 Educations
 - *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
 - *2019.09 - 2022.06*, High School Affiliated to Nanjing Normal University. 
 
