@@ -41,12 +41,12 @@ My primary interests include **AI-related power system and research**. I aim to 
         
 ## 💻 Internships
 - **Shanghai AI lab (remote)**
-  - Duration: November 2024 - January 2025
+  - Duration: Nov. 2024 - Jan. 2025
   - Job description: RLHF
   - Main work: Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
 
 - **Nanjing National Foundation Research Institute**
-  - Duration: October 2023 - July 2024
+  - Duration: Oct. 2023 - July 2024
   - In a smart water conservancy project, ChatGPT was used to train a large number of text materials in the water conservancy industry, realize a question and answer robot, and conduct professional industry consultation. Realize the business assistant function, which can quickly complete the daily work of the business. And in the process of the project, I also entered the ability of language analysis, which can quickly parse the relevant business by saying a sentence and retrieve the relevant business data or data results.
 - Main work: use GPT, industry-oriented, use industry data (divided into two types, one is text-based data, including industry policy documents, business documents, daily work materials, etc.) One is the database file, including the database table data used by various systems) to train LLM to realize online customer service AI bot.
 
