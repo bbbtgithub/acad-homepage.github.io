@@ -38,7 +38,8 @@ My primary interests include **AI-related power system and research**. I aim to 
   - 1. Independent reproduction of SOTA's Dechirp scheme. By building a ground station to receive data, and using preamble to locate LoRa packets and demodulate, the signal is analyzed in the frequency domain and subsequent operations. It can also achieve good dechirp for data with a signal-to-noise ratio of -20dB, and the positioning accuracy is more than 99.9%.
     2. Try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
     3.  The paper being reproduced: try to use the MUSIC algorithm, try to use the virtual antenna array to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
-    ![Chirp signal Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa--chirp F-T.png?raw=true)
+    ![Chirp signal Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa--chirp%20F-T.png?raw=true)
+
 ## 💻 Internships
 - **Shanghai AI lab (remote)**
   - Duration: Nov. 2024 - Jan. 2025
