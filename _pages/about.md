@@ -22,7 +22,7 @@ Hello! I am **Hanzhen Yuan (袁瀚桢)**, an undergraduate majoring in Electrica
 My primary interests include **AI-related power system and research**. I aim to contribute to top conferences and journals in these fields. 
 
 ---
-## 📝 Publications
+## 📝 Publications (in coming)
 - A Study on Risk Assessment Method for Flexible Distribution Network Maintenance (Abstract is now accepted, the full text is expected to be submitted to ICEE Conference, 2025.4.15)
   
 ## 🔍 Research Experience
