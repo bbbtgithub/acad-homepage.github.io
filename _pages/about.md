@@ -76,7 +76,7 @@ My primary interests include **AI-related power system and research**. I aim to 
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
 <pre>
 Introduction to Artificial Intelligence (CS188)                                                 A
-Control system with (ME132)                                                                     A+
+Dynamic systems and feedback (ME132)                                                            A+
 Power Electronics (EE113)                                                                       P
 </pre>
 
@@ -97,9 +97,10 @@ Power Electronics (EE113)                                                       
 - **Academic Scholarship**:
   - Third Prize (￥1,000)
 
-## 🧱 projects 
+##  🎮 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
+![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
 (https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj)
 - **search**
   - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/search.zip
@@ -112,8 +113,7 @@ Power Electronics (EE113)                                                       
 - **machinelearning**
   - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/machinelearning.zip
   
-## 🎮 See it in action!
-![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
+
 
 ## 🔧 Skills
 - **Programming**:
@@ -126,7 +126,7 @@ Power Electronics (EE113)                                                       
   - CET6   619/710
   - IELTS  7.0/9.0
 
-## 💬 Contact
+## 💬 Contact info
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
 - **Phone**: +86 152-9835-3916 (China), +1 628-255-8755 (US)
 
