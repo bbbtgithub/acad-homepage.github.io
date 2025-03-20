@@ -68,12 +68,14 @@ My primary interests include **AI-related power system and research**. I aim to 
 </table>
 
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
-- Course Enrollment Results:
-  - Introduction to Artificial Intelligence%20(CS188)%20%20%20%20%20%20%20%20%20%20  A
-  - Control system with%20(ME132)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20  A+
-  - Power Electronics%20(EE113)%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20  P (PF course only shows pass or fail)
+<pre>
+Introduction to Artificial Intelligence (CS188)              A
+Control system with (ME132)                                  A+
+Power Electronics (EE113)                                    P
+</pre>
 
-- **A's are generally assigned to about the top 20% or so of students. The proportion of A is usually less, perhaps around the top 3%~5%, or even lower. **
+- *PF course only shows pass or fail, A's are generally assigned to about the top 20% or so of students. The proportion of A is usually less, perhaps around the top 3%~5%, or even lower.*
+
 
 ## 📜 Research Interests
 - AI for power systems
