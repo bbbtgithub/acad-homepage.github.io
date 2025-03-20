@@ -57,10 +57,11 @@ My primary interests include **AI-related power system and research**. I aim to 
   - Main work: Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
 <table>
   <tr>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/opendilab1.png" alt="Image3" width="500px"></td>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/opendilab2.png" alt="Image4" width="500px"></td>
+    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/opendilab1.png" alt="Image3" width="400px"></td>
+    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/opendilab2.png" alt="Image4" width="400px"></td>
   </tr>
 </table>
+
 - **2.Nanjing National Foundation Research Institute**
   - Duration: Oct. 2023 - July 2024
   - In a smart water conservancy project, ChatGPT was used to train a large number of text materials in the water conservancy industry, realize a question and answer robot, and conduct professional industry consultation. Realize the business assistant function, which can quickly complete the daily work of the business. And in the process of the project, I also entered the ability of language analysis, which can quickly parse the relevant business by saying a sentence and retrieve the relevant business data or data results.
@@ -74,9 +75,9 @@ My primary interests include **AI-related power system and research**. I aim to 
 
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
 <pre>
-Introduction to Artificial Intelligence (CS188)              A
-Control system with (ME132)                                  A+
-Power Electronics (EE113)                                    P
+Introduction to Artificial Intelligence (CS188)                                                 A
+Control system with (ME132)                                                                     A+
+Power Electronics (EE113)                                                                       P
 </pre>
 
 - *PF course only shows pass or fail, A's are generally assigned to about the top 20% or so of students. The proportion of A is usually less, perhaps around the top 3%~5%, or even lower.*
