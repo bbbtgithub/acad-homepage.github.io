@@ -73,6 +73,15 @@ My primary interests include **AI-related power system and research**. I aim to 
   </tr>
 </table>
 
+## 🏆 Awards and Honors
+- **Scholarship for Visiting Abroad**:
+  - approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university per year), 2023-2024
+- **Programming Comptitions**:
+  - Second Prize in LanQiao Cup Programming Competition
+  - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
+- **Academic Scholarship**:
+  - Third Prize (￥1,000)
+
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
 <pre>
 Introduction to Artificial Intelligence (CS188)                                                 A
@@ -83,25 +92,11 @@ Power Electronics (EE113)                                                       
 - *PF course only shows pass or fail, A's are generally assigned to about the top 20% or so of students. The proportion of A is usually less, perhaps around the top 3%~5%, or even lower.*
 
 
-## 📜 Research Interests
-- AI for power systems
-- Reinforcement Learning and Deep Learning
-- Large Language Models and Generative Models
-
-## 🏆 Awards and Honors
-- **Scholarship for Visiting Abroad**:
-  - approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university per year), 2023-2024
-- **Programming Comptitions**:
-  - Second Prize in LanQiao Cup Programming Competition
-  - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
-- **Academic Scholarship**:
-  - Third Prize (￥1,000)
-
 ##  🎮 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
 ![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
-(https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj)
+
 - **search**
   - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/search.zip
 - **multiagent**
@@ -123,8 +118,13 @@ Power Electronics (EE113)                                                       
 - **Mathematics & Engineering**:
   - Strong background in mathematical physics, Signal processing, Numerical analysis，convex optimization and operations research
 - **language** :
-  - CET6   619/710
-  - IELTS  7.0/9.0
+  - *CET6*   619/710
+  - *IELTS*  7.0/9.0
+
+## 📜 Research Interests
+- AI for power systems
+- Reinforcement Learning and Deep Learning
+- Large Language Models and Generative Models
 
 ## 💬 Contact info
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
