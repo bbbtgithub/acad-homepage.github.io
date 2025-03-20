@@ -39,6 +39,17 @@ My primary interests include **AI-related power system and research**. I aim to 
     2. Try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
     3.  The paper being reproduced: try to use the MUSIC algorithm, try to use the virtual antenna array to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
     ![Chirp signal Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa--chirp%20F-T.png?raw=true)
+<table>
+  <tr>
+    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa--chirp%20F-T.png" alt="Image1" width="300px"></td>
+    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa-pic.png" alt="Image2" width="300px"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRachirpSpectrum.png" alt="Image3" width="300px"></td>
+    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRaCIC.png" alt="Image4" width="300px"></td>
+  </tr>
+</table>
+
 
 ## 💻 Internships
 - **Shanghai AI lab (remote)**
