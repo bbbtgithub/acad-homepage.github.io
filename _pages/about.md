@@ -40,7 +40,7 @@ My primary interests include **AI-related power system and research**. I aim to 
     3.  The paper being reproduced: try to use the MUSIC algorithm, try to use the virtual antenna array to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
 <table>
   <tr>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa--chirp%20F-T.png" alt="Image1" width="500px"></td>
+    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRaMultipath.png" alt="Image1" width="500px"></td>
     <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa-pic.png" alt="Image2" width="500px"></td>
   </tr>
   <tr>
