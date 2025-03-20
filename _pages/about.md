@@ -97,17 +97,12 @@ Power Electronics (EE113)                                                       
 
 ![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
 
-- **search**
-  - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/search.zip
-- **multiagent**
-  - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/multiagent.zip
-- **reinforcement**
-  - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/reinforcement.zip
-- **tracking**
-  - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/tracking.zip
-- **machinelearning**
-  - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj/machinelearning.zip
-  
+- *1.search*
+- *2.multiagent*
+- *3.reinforcement*
+- *4.tracking*
+- *5.machinelearning*
+- https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj
 
 
 ## 🔧 Skills
@@ -118,8 +113,8 @@ Power Electronics (EE113)                                                       
 - **Mathematics & Engineering**:
   - Strong background in mathematical physics, Signal processing, Numerical analysis，convex optimization and operations research
 - **language** :
-  - *CET6*   619/710
-  - *IELTS*  7.0/9.0
+  - *CET6:*   619/710
+  - *IELTS:*  7.0/9.0
 
 ## 📜 Research Interests
 - AI for power systems
@@ -128,7 +123,7 @@ Power Electronics (EE113)                                                       
 
 ## 💬 Contact info
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
-- **Phone**: +86 152-9835-3916 (China), +1 628-255-8755 (US)
+- **Phone**: +86 152-9835-3916 , +1 628-255-8755 
 
 ## 📖 Educations
 - *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
