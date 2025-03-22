@@ -86,7 +86,7 @@ My primary interests include **AI-related power system and research**. I aim to 
 - **Mathematical Contest In Modeling**
   - [Mathematical Contest In Modeling](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/24MeiSai.pdf)
 - **Academic Scholarship**:
-  - [Third Prize (￥1,000)](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/ThirdPrize.jpg)
+  - [Third Prize (￥1,000)](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/XiaoSan.jpg)
     
 
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
