@@ -40,12 +40,12 @@ My primary interests include **AI-related power system and research**. I aim to 
     3. Based on the idea of virtual antenna arrays , I am trying to use the MUSIC algorithm to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
 <table>
   <tr>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRaMultipath.png" alt="Image1" width="500px"></td>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRa-pic.png" alt="Image2" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaMultipath.png" alt="Image1" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRa-pic.png" alt="Image2" width="500px"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRachirpSpectrum.png" alt="Image3" width="500px"></td>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LoRaCIC.png" alt="Image4" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRachirpSpectrum.png" alt="Image3" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaCIC.png" alt="Image4" width="500px"></td>
   </tr>
 </table>
 
@@ -59,8 +59,8 @@ My primary interests include **AI-related power system and research**. I aim to 
 
 <table>
   <tr>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/opendilab1.png" alt="Image3" width="400px"></td>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/opendilab2.png" alt="Image4" width="400px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/opendilab1.png" alt="Image3" width="400px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/opendilab2.png" alt="Image4" width="400px"></td>
   </tr>
 </table>
 
@@ -71,8 +71,8 @@ My primary interests include **AI-related power system and research**. I aim to 
   - [Certification](docs/njgcyjy-certification.pdf)
 <table>
   <tr>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/guochu1.png" alt="Image3" width="500px"></td>
-    <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/guochu2.png" alt="Image4" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/guochu1.png" alt="Image3" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/guochu2.png" alt="Image4" width="500px"></td>
   </tr>
 </table>
 
