@@ -83,9 +83,9 @@ My primary interests include **AI-related power system and research**. I aim to 
   - Second Prize in LanQiao Cup Programming Competition,2024[Certification]
   - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024[Certification]
 - **Mathematical Contest In Modeling**
-  - Mathematical Contest In Modeling[Certification](https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/24MeiSai.pdf)
+  - Mathematical Contest In Modeling[Certification](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/24MeiSai.pdf)
 - **Academic Scholarship**:
-  - Third Prize (￥1,000)[Certification](https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/24MeiSai.pdf)
+  - Third Prize (￥1,000)[Certification](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/ThirdPrize.pdf)
     
 
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
