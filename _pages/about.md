@@ -80,10 +80,13 @@ My primary interests include **AI-related power system and research**. I aim to 
 - **Scholarship for Visiting Abroad**:
   - approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university per year), 2023-2024
 - **Programming Comptitions**:
-  - Second Prize in LanQiao Cup Programming Competition
-  - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
+  - Second Prize in LanQiao Cup Programming Competition,2024[Certification]
+  - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024[Certification]
+- **Mathematical Contest In Modeling**
+  - Mathematical Contest In Modeling[Certification](images/24MeiSai.pdf )
 - **Academic Scholarship**:
-  - Third Prize (￥1,000)
+  - Third Prize (￥1,000)[Certification](images/24MeiSai.pdf )
+    
 
 ## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
 <pre>
