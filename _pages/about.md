@@ -79,12 +79,12 @@ My primary interests include **AI-related power system and research**. I aim to 
 ## 🏆 Awards and Honors
 - **Scholarship for Visiting Abroad**:
   - approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university per year), 2023-2024
-  - [Certification]()
+  - [Certification](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/fangxuePrize.jpg)
 - **Programming Comptitions**:
   - [Second Prize in LanQiao Cup Programming Competition,2024](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/LanqiaoSecondPrize.jpg)
   - Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024
 - **Mathematical Contest In Modeling**
-  - [Mathematical Contest In Modeling](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/24MeiSai.pdf)
+  - [Mathematical Contest In Modeling](cimages/24MeiSai.pdf)
 - **Academic Scholarship**:
   - [Third Prize (￥1,000)](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/ThirdPrize.pdf)
     
