@@ -54,7 +54,9 @@ My primary interests include **AI-related power system and research**. I aim to 
 - **1.Shanghai AI lab (remote)**
   - Duration: Nov. 2024 - Jan. 2025
   - Job description: RLHF
-  - Main work: Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
+  - Main work: work  on PPOfamily chapter 8.Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
+  - [PPOxFamily](https://github.com/bbbtgithub/PPOxFamily)
+
 <table>
   <tr>
     <td><img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/opendilab1.png" alt="Image3" width="400px"></td>
