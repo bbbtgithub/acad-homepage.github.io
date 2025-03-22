@@ -53,8 +53,8 @@ My primary interests include **AI-related power system and research**. I aim to 
 ## 💻 Internships
 - **1.Shanghai AI lab (remote)**
   - Duration: Nov. 2024 - Jan. 2025
-  - Job description: RLHF
-  - Main work: work  on PPOfamily chapter 8.Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
+  - Job description: RLHF, work on PPOxfamily chapter 8.
+  - Main work:  Integrate SFT, DPO, PPO algorithms into the language model, train the model, and make the output conform to human preferences (e.g., make the answer more humorous, etc.)
   - [PPOxFamily](https://github.com/bbbtgithub/PPOxFamily)
 
 <table>
