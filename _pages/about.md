@@ -106,8 +106,8 @@ Power Electronics (EE113)                                                       
 ##  🎮 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
-![Pacman Game Demo](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true)
 
+<img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true" alt="Pacman Game Demo" style="display:block;" loop="infinite">
 - *1.search*
 - *2.multiagent*
 - *3.reinforcement*
