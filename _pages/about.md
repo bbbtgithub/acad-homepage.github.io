@@ -96,7 +96,7 @@ Introduction to Artificial Intelligence (CS188)                                 
 Dynamic systems and feedback (ME132)                                                            A+
 Power Electronics (EE113)                                                                       P
 </pre>
-
+- [transcript](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/docs/UCBtranscript.pdf)
 - *PF course only shows pass or fail, A's are generally assigned to about the top 20% or so of students. The proportion of A is usually less, perhaps around the top 3%~5%, or even lower.*
 
 
