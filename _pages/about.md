@@ -108,6 +108,17 @@ Power Electronics (EE113)                                                       
 
 
 <img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true" alt="Pacman Game Demo" style="display:block;" loop="infinite">
+<script>
+  document.getElementById('pacman-gif').addEventListener('load', function() {
+    const gif = this;
+    // 监听GIF播放结束事件
+    gif.addEventListener('ended', function() {
+      gif.src = ''; // 清空src
+      gif.src = 'https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true'; // 重新设置src
+    });
+  });
+</script>
+
 - *1.search*
 - *2.multiagent*
 - *3.reinforcement*
