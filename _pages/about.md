@@ -44,11 +44,12 @@ My primary interests include **AI-related power system and research**. I aim to 
     <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRa-pic.png" alt="Image2" width="500px"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRachirpSpectrum.png" alt="Image3" width="330px"></td>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaCIC.png" alt="Image4" width="330px"></td>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/blender.png" alt="Image5" width="330px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRachirpSpectrum.png" alt="Image3" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaCIC.png" alt="Image4" width="500px"></td>
+    
     
   </tr>
+  <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/blender.png" alt="Image5" width="700px"></td>
 </table>
 
 
