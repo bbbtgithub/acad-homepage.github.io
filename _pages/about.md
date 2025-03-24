@@ -49,7 +49,7 @@ My primary interests include **AI-related power system and research**. I aim to 
     
     
   </tr>
-  <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/blender.png" alt="Image5" width="700px"></td>
+  <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/blender.png" alt="Image5" width="500px"></td>
 </table>
 
 
