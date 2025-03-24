@@ -21,6 +21,7 @@ Hello! I am **Hanzhen Yuan (袁瀚桢)**, an undergraduate majoring in Electrica
 
 My primary interests include **AI-related power system and research**. I aim to contribute to top conferences and journals in these fields. 
 
+<img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true" alt="Pacman Game Demo" style="display:block;" loop="infinite">
 ---
 ## 📝 Publications (in coming)
 - A Study on Risk Assessment Method for Flexible Distribution Network Maintenance (Abstract is now accepted, the full text is expected to be submitted to ICEE Conference, 2025.4.15)
@@ -108,16 +109,7 @@ Power Electronics (EE113)                                                       
 
 
 <img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true" alt="Pacman Game Demo" style="display:block;" loop="infinite">
-<script>
-  document.getElementById('pacman-gif').addEventListener('load', function() {
-    const gif = this;
-    // 监听GIF播放结束事件
-    gif.addEventListener('ended', function() {
-      gif.src = ''; // 清空src
-      gif.src = 'https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true'; // 重新设置src
-    });
-  });
-</script>
+
 
 - *1.search*
 - *2.multiagent*
