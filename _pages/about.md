@@ -36,7 +36,7 @@ My primary interests include **AI-related power system and research**. I aim to 
   - Topics: LEO Satellite Communication, Channel Modeling and AI Model Applications
   - Job Description:
   - 1. Independent reproduction of SOTA's Dechirp scheme. By building a ground station to receive data, and using preamble to locate LoRa packets and demodulate, the signal is analyzed in the frequency domain and subsequent operations. It can also achieve good dechirp for data with a signal-to-noise ratio of -20dB, and the positioning accuracy is more than 99.9%.
-    2. Try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
+    2. With blender and geometry data, I try to model the multipath channel, use the map environment to determine the potential primary reflection channel a priori, try to describe the channel with physical quantities such as azimuth, elevation angle and Doppler frequency shift due to the high-speed movement of the satellite, and learn the channel with neural networks, and predict the intensity of the future moment.
     3. Based on the idea of virtual antenna arrays , I am trying to use the MUSIC algorithm to calculate the AoA (angle of arrival) in the SISO scenario; The CIC concurrency interference cancellation algorithm is used to separate the overlapping packets due to the multipath effect.
 <table>
   <tr>
