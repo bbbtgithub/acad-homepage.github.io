@@ -46,18 +46,17 @@ My primary interests include **AI-related power system and research**. I aim to 
     with the assessment results, analyzes the impact of resilient resources on the
     maintenance risk of distribution system.The examples validate the
     effectiveness and feasibility of the maintenance risk assessment method.
-    <table>
+    
+  <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaMultipath.png" alt="Image1" width="500px"></td>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRa-pic.png" alt="Image2" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE2.png" alt="Image1" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE3.png" alt="Image2" width="500px"></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRachirpSpectrum.png" alt="Image3" width="500px"></td>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaCIC.png" alt="Image4" width="500px"></td>
-    
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE6.png" alt="Image3" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE7.png" alt="Image4" width="500px"></td>
     
   </tr>
-  <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/blender.png" alt="Image5" width="500px"></td>
 </table>
 
 - **2.Advanced Intelligent Network Laboratory, Shanghai Jiao Tong University**
