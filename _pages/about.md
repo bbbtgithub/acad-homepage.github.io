@@ -30,12 +30,38 @@ My primary interests include **AI-related power system and research**. I aim to 
   
 ## 🔍 Research Experience
 - **1.PAI research lab, Xi'an Jiao Tong University**
-  - Focus: AI-driven solutions for high renewable energy grid regulation
-  - Duration: Oct 2023 - Feb 2024 (Research ongoing)
-  - Job Description:
-    The innovations of this paper include: (1) a new load transfer algorithm is proposed; (2) A maintenance risk assessment method suitable for flexible distribution network was established; (3) Strategies to reduce the risk of maintenance are proposed. ”
+  - Paper under review（ICEE）: Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration
+  - Duration: Jan 2025 - present 2025
+  - Abstract: The increasing scale and topological complexity of distribution
+    systems have led to a sharp rise in maintenance demands. Since operations
+    inherently carry operational risks, this paper constructs an risk assessment
+    index system for maintenance and proposes a novel data-driven risk
+    assessment framework based on the XGBoost algorithm, simultaneously
+    considers the impact of distribution network resilient reconfiguration, and
+    distributed energy resources (DER). The model captures nonlinear
+    interactions between physical indicators (e.g., load loss ratio, voltage
+    violations) and structural metrics (e.g., node isolation, topological centrality),
+    providing accurate and interpretable risk classification. The paper conducts
+    tests based on the improved IEEE 123 node examples and, in conjunction
+    with the assessment results, analyzes the impact of resilient resources on the
+    maintenance risk of distribution system.The examples validate the
+    effectiveness and feasibility of the maintenance risk assessment method.
+    <table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaMultipath.png" alt="Image1" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRa-pic.png" alt="Image2" width="500px"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRachirpSpectrum.png" alt="Image3" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LoRaCIC.png" alt="Image4" width="500px"></td>
+    
+    
+  </tr>
+  <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/blender.png" alt="Image5" width="500px"></td>
+</table>
+
 - **2.Advanced Intelligent Network Laboratory, Shanghai Jiao Tong University**
-  - Duration: July 2024 - present
+  - Duration: July 2024 - Jan 2025
   - Topics: LEO Satellite Communication, Channel Modeling and AI Model Applications
   - Job Description:
   - 1. Independent reproduction of SOTA's Dechirp scheme. By building a ground station to receive data, and using preamble to locate LoRa packets and demodulate, the signal is analyzed in the frequency domain and subsequent operations. It can also achieve good dechirp for data with a signal-to-noise ratio of -20dB, and the positioning accuracy is more than 99.9%.
