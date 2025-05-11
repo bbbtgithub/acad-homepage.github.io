@@ -161,6 +161,17 @@ Power Electronics (EE113)                                                       
 - Reinforcement Learning and Deep Learning
 - Large Language Models and Generative Models
 
+## 🎾 Sport
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/sybTennis.png" alt="Image1" width="500px"></td>
+
+  </tr>
+</table>
+
+
+
 ## 💬 Contact info
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
 - **Phone**: +86 152-9835-3916 , +1 628-255-8755 
