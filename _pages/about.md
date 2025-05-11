@@ -161,8 +161,8 @@ Power Electronics (EE113)                                                       
 - Reinforcement Learning and Deep Learning
 - Large Language Models and Generative Models
 
-## 🎾 Sport
-
+## 🎾 Sports tennis
+- xjtu college Cup second place
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/a9a6660c7451a3fadd69bcc7b81f208.png" alt="Image1" width="500px"></td>
