@@ -165,8 +165,7 @@ Power Electronics (EE113)                                                       
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/sybTennis.png" alt="Image1" width="500px"></td>
-<td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE3.png" alt="Image2" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/TennisSyb.png" alt="Image1" width="500px"></td>
   </tr>
 </table>
 
