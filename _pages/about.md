@@ -114,6 +114,7 @@ My primary interests include **AI-related power system and research**. I aim to 
 - **Programming Comptitions**:
   - [Second Prize in LanQiao Cup Programming Competition,2024](https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/LanqiaoSecondPrize.jpg)
   - [Bronze Medal at Xi'an Jiaotong University ICPC Competition, 2024](https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/xjtuicpc.png)
+  - [Industrial and Information Technology Talent Job Capability Certification, 2025](https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/IITC.png)
 - **Mathematical Contest In Modeling**
   - [Mathematical Contest In Modeling](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/24MeiSai.pdf)
 - **Academic Scholarship**:
