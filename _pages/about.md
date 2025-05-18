@@ -178,7 +178,7 @@ Power Electronics (EE113)                                                       
 ## 🐱 pet --- Tang Yuan
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/a9a6660c7451a3fadd69bcc7b81f208.png" alt="Image1" width="500px"></td>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/TangYuan.jpg" alt="Image1" width="500px"></td>
   </tr>
 </table>
 
