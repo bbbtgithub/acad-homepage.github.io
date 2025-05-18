@@ -175,5 +175,12 @@ Power Electronics (EE113)                                                       
 - *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
 - *2019.09 - 2022.06*, High School Affiliated to Nanjing Normal University. 
 
+## 🐱 pet --- Tang Yuan
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/a9a6660c7451a3fadd69bcc7b81f208.png" alt="Image1" width="500px"></td>
+  </tr>
+</table>
+
 
 
