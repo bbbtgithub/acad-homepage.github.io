@@ -24,13 +24,14 @@ My primary interests include **AI-related power system and research**. I aim to 
 <img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true" alt="Pacman Game Demo" style="display:block;" loop="infinite">
 
 ---
+## news: ICEE conference in Wuhan 7.8 - 7.11!
 
-## 📝 Publications (in coming)
-- A Study on Risk Assessment Method for Flexible Distribution Network Maintenance (Abstract is now accepted, the full text is expected to be submitted to ICEE Conference, 2025.4.15)
+## 📝 Publications
+- Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration.Jung Deng*, Hanzhen Yuan* (ICEE conference).
   
 ## 🔍 Research Experience
 - **1.PAI research lab, Xi'an Jiao Tong University**
-  - Paper under review（ICEE）: Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration
+  - Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration
   - Duration: Jan 2025 - present 2025
   - Abstract: The increasing scale and topological complexity of distribution
     systems have led to a sharp rise in maintenance demands. Since operations
