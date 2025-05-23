@@ -24,8 +24,7 @@ My primary interests include **AI-related power system and research**. I aim to 
 <img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true" alt="Pacman Game Demo" style="display:block;" loop="infinite">
 
 ---
-## news: ICEE conference in Wuhan 7.8 - 7.11!
-
+## NEWS 🔥 : ICEE conference  to be hold in Wuhan 2025.7.8th - 2025.7.11th !
 ## 📝 Publications
 - Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration.Jung Deng*, Hanzhen Yuan* (ICEE conference).
   
@@ -122,7 +121,7 @@ My primary interests include **AI-related power system and research**. I aim to 
   - [Third Prize (￥1,000)](https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/校三.jpg)
     
 
-## 🔥 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
+## 📕 Exchange Program: University of California, Berkeley, Aug 2024 - Dec 2024
 <pre>
 Introduction to Artificial Intelligence (CS188)                                                 A
 Dynamic systems and feedback (ME132)                                                            A+
@@ -167,16 +166,15 @@ Power Electronics (EE113)                                                       
 </table>
 
 
-
 ## 💬 Contact info
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
 - **Phone**: +86 152-9835-3916 , +1 628-255-8755 
 
-## 📖 Educations
+## 📖 Educations 
 - *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
 - *2019.09 - 2022.06*, High School Affiliated to Nanjing Normal University. 
 
-## 🐱 pet --- Tang Yuan
+## 🐱 pet    Tang Yuan
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/TangYuan.jpg" alt="Image1" width="500px"></td>
