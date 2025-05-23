@@ -128,7 +128,8 @@ Dynamic systems and feedback (ME132)                                            
 Power Electronics (EE113)                                                                       P
 </pre>
 - [transcript](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/docs/UCBtranscript.pdf)
-- 
+
+
 <!--注释注释注释注释
 ##  🎮 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
@@ -138,7 +139,7 @@ Power Electronics (EE113)                                                       
 
 - *1.search*/*2.multiagent*/*3.reinforcement*/*4.tracking*/*5.machinelearning*
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj
--->
+
 
 ## 🔧 Skills
 - **Programming**:
@@ -150,6 +151,7 @@ Power Electronics (EE113)                                                       
 - **language** :
   - *CET6:*   619/710
   - *IELTS:*  7.0/9.0
+-->
 
 ## 📜 Research Interests
 - AI for power systems
@@ -164,20 +166,23 @@ Power Electronics (EE113)                                                       
   </tr>
 </table>
 
-## 💬 Contact info
-- **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
-- **Phone**: +86 152-9835-3916 , +1 628-255-8755 
-
-## 📖 Educations 
-- *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
-- *2019.09 - 2022.06*, High School Affiliated to Nanjing Normal University. 
-
 ## 🐱 pet    Tang Yuan
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/TangYuan.jpg" alt="Image1" width="500px"></td>
   </tr>
 </table>
+
+## 📖 Educations 
+- *2022.09 - 2026.07 (expected)*, Xi'an Jiaotong university . 
+- *2019.09 - 2022.06*, High School Affiliated to Nanjing Normal University.
+
+## 💬 Contact info
+- **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
+- **Phone**: +86 152-9835-3916 , +1 628-255-8755 
+
+
+
 
 
 
