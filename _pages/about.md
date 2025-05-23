@@ -24,7 +24,7 @@ My primary interests include **AI-related power system and research**. I aim to 
 <img src="https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/images/pacman_game.gif?raw=true" alt="Pacman Game Demo" style="display:block;" loop="infinite">
 
 ---
-## NEWS 🔥 : ICEE conference  to be hold in Wuhan 2025.7.8th - 2025.7.11th !
+## NEWS 🔥 : ICEE conference to be held in Wuhan 2025.7.8th - 2025.7.11th !
 ## 📝 Publications
 - Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration.Jung Deng*, Hanzhen Yuan* (ICEE conference).
   
@@ -128,7 +128,8 @@ Dynamic systems and feedback (ME132)                                            
 Power Electronics (EE113)                                                                       P
 </pre>
 - [transcript](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/docs/UCBtranscript.pdf)
-
+- 
+<!--注释注释注释注释
 ##  🎮 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
@@ -137,7 +138,7 @@ Power Electronics (EE113)                                                       
 
 - *1.search*/*2.multiagent*/*3.reinforcement*/*4.tracking*/*5.machinelearning*
 - https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/proj
-
+-->
 
 ## 🔧 Skills
 - **Programming**:
