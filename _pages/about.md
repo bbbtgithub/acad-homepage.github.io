@@ -128,8 +128,6 @@ Dynamic systems and feedback (ME132)                                            
 Power Electronics (EE113)                                                                       P
 </pre>
 - [transcript](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/docs/UCBtranscript.pdf)
-- *PF course only shows pass or fail, A's are generally assigned to about the top 20% or so of students. The proportion of A is usually less, perhaps around the top 3%~5%, or even lower.*
-
 
 ##  🎮 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
@@ -164,7 +162,6 @@ Power Electronics (EE113)                                                       
     <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/a9a6660c7451a3fadd69bcc7b81f208.png" alt="Image1" width="500px"></td>
   </tr>
 </table>
-
 
 ## 💬 Contact info
 - **Email**: [3213970556@qq.com](mailto:3213970556@qq.com), [bbbt_ucb@berkeley.edu](mailto:bbbt_ucb@berkeley.edu)
