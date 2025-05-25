@@ -30,7 +30,7 @@ My primary interests include **AI-related power system and research**. I aim to 
   
 ## 🔍 Research Experience
 - **1.PAI research lab, Xi'an Jiao Tong University**
-  - Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration
+  - Paper : Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration
   - Duration: Jan 2025 - present 2025
   - Abstract: The increasing scale and topological complexity of distribution
     systems have led to a sharp rise in maintenance demands. Since operations
@@ -46,7 +46,7 @@ My primary interests include **AI-related power system and research**. I aim to 
     with the assessment results, analyzes the impact of resilient resources on the
     maintenance risk of distribution system.The examples validate the
     effectiveness and feasibility of the maintenance risk assessment method.
-    
+  - This paper is linked to a project of the State Grid:"Research on key technologies for intelligent verification and compilation optimization of distribution network maintenance operation mode based on human-machine collaboration"
   <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE2.png" alt="Image1" width="500px"></td>
