@@ -82,7 +82,7 @@ My primary interests include **AI-related power system and research**. I aim to 
   <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/blender.png" alt="Image5" width="500px"></td>
 </table>
 
-
+<!--注释注释注释注释注释注释注释注释
 ## 💻 Internships
 - **1.Shanghai AI lab (remote)**
   - Duration: Nov. 2024 - Jan. 2025
@@ -110,6 +110,9 @@ My primary interests include **AI-related power system and research**. I aim to 
   </tr>
 </table>
 
+
+
+注释注释注释注释注释注释注释注释-->
 ## 🏆 Awards and Honors
 - **Scholarship for Visiting Abroad**:
   - approximately ￥80,000 for overseas study (one student in each A+ subject of Xi'an Jiaotong university per year), 2023-2024
@@ -133,7 +136,7 @@ Power Electronics (EE113)                                                       
 - [transcript](https://github.com/bbbtgithub/acad-homepage.github.io/blob/bbbtgithub-patch-1/docs/UCBtranscript.pdf)
 
 
-<!--注释注释注释注释
+<!--注释注释注释注释注释注释注释注释
 ##  🎮 projects 
 5 high quality and interesting course projects! If you would like to employ the world of the agent **pacman**, try it now!
 
@@ -154,7 +157,7 @@ Power Electronics (EE113)                                                       
 - **language** :
   - *CET6:*   619/710
   - *IELTS:*  7.0/9.0
--->
+注释注释注释注释注释注释注释注释-->
 
 ## 📜 Research Interests
 - AI for power systems
@@ -169,7 +172,7 @@ Power Electronics (EE113)                                                       
   </tr>
 </table>
 
-## 🐱 pet    Tang Yuan
+## 🐱 pet    Tangyuan
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/TangYuan.jpg" alt="Image1" width="500px"></td>
