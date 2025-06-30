@@ -161,8 +161,10 @@ Power Electronics (EE113)                                                       
 
 ## 📜 Research Interests
 - AI for power systems
-- Reinforcement Learning and Deep Learning
-- Large Language Models and Generative Models
+- Power system stability
+- Power electronic power systems
+- Distributed Energy-Grid connection
+- RL DL LLM
 
 ## 🎾 Sports tennis
 - xjtu college Cup second place
