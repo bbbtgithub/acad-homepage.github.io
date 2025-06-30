@@ -27,8 +27,9 @@ My primary interests include **AI-related power system and research**. I aim to 
 ## NEWS 🔥 : ICEE conference to be held in Wuhan 2025.7.8th - 2025.7.11th !
 ## 📝 Publications
 - Data-Driven Risk Assessment for Distribution System Maintenance with Resilient Reconfiguration.Jung Deng*, Hanzhen Yuan* (ICEE conference).
-- Poster：<img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE2025poster.png" alt="Image1" width="500px">
-  
+- Poster：
+- <table><img src="https://raw.githubusercontent.com/bbbtgithub/acad-homepage.github.io/bbbtgithub-patch-1/images/ICEE2025poster.png" alt="Image1" width="500px">
+</table>
   
 ## 🔍 Research Experience
 - **1.PAI research lab, Xi'an Jiao Tong University**
